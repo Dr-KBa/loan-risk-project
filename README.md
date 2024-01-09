@@ -1,5 +1,14 @@
-# Capstone Project 3
-This repository contains files that are part of Turing College assignment of Module 3 Sprint 4.
+# Capstone Project 3 overview
+You and your friend came up with a brilliant startup idea - provide risk evaluation as a service for retail banks. As with most successful startup teams, both of you have your specialty. Your friend is responsible for sales and operations, while you are responsible for everything product-related, from planning to data analysis to building the solution. You have quickly identified that machine learning will be an essential part of your offering because you believe that the models can capture statistical patterns in the defaults on bank loans. You decide to start your investigation by downloading this dataset from Home Credit Group. You are not yet sure, what is the most crucial problem for your potential clients, so you had a meeting with your friend to discuss how your proof-of-concept (POC) product should look like. After a lot of arguing, you both agreed to create a number of different models so that you have a robust and diversified offering when you get your first meeting with the potential clients. You are eager to investigate the dataset and see what you can predict, so you propose that you come up with interesting features to analyze and predict - this way, you'll focus on building a solid offering, and she can work on getting meetings with the banks.
+
+Plan:
+
+Analyze the raw data and inform the potential clients about accessible features that can be used for predictions. Result: data structured and presented.
+Explore some of the features that would inform the clients about the likely portrait of a normal and problematic costumers. Result: data structured and presented.
+Create a model (Model 1) that would help bank quickly (having limited data) evaluate customers' creditworthiness. Result: model that is better than random guessing.
+Deploy the model (Model 1) to the cloud. Result: model that is accessible via HTTP requests.
+Make model practical to use and capable of live demo. Result: Model is accessible via simple user interface so that bank employees can quickly evaluate weather client is worth further considerations for the loan.
+Create a more complex model (Model 2) that may be used after initial filtering (Model 1), or instead of it. This model should be further developed if the bank is interested in my services. Result: model encompassing more data then Model 1 and utilizing at least one bonus challenge.
 
 # Data acquisition
 The dataset should be downloaded from Turing College relevant assignment webpage. Original data source appears to be based on Home Credit Default Risk Kaggle Competition.
