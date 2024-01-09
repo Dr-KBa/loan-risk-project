@@ -3,12 +3,12 @@ You and your friend came up with a brilliant startup idea - provide risk evaluat
 
 Plan:
 
-Analyze the raw data and inform the potential clients about accessible features that can be used for predictions. Result: data structured and presented.
-Explore some of the features that would inform the clients about the likely portrait of a normal and problematic costumers. Result: data structured and presented.
-Create a model (Model 1) that would help bank quickly (having limited data) evaluate customers' creditworthiness. Result: model that is better than random guessing.
-Deploy the model (Model 1) to the cloud. Result: model that is accessible via HTTP requests.
-Make model practical to use and capable of live demo. Result: Model is accessible via simple user interface so that bank employees can quickly evaluate weather client is worth further considerations for the loan.
-Create a more complex model (Model 2) that may be used after initial filtering (Model 1), or instead of it. This model should be further developed if the bank is interested in my services. Result: model encompassing more data then Model 1 and utilizing at least one bonus challenge.
+1. Analyze the raw data and inform the potential clients about accessible features that can be used for predictions. Result: data structured and presented.
+2. Explore some of the features that would inform the clients about the likely portrait of a normal and problematic costumers. Result: data structured and presented.
+3. Create a model (Model 1) that would help bank quickly (having limited data) evaluate customers' creditworthiness. Result: model that is better than random guessing.
+4. Deploy the model (Model 1) to the cloud. Result: model that is accessible via HTTP requests.
+5. Make model practical to use and capable of live demo. Result: Model is accessible via simple user interface so that bank employees can quickly evaluate weather client is worth further considerations for the loan.
+6. Create a more complex model (Model 2) that may be used after initial filtering (Model 1), or instead of it. This model should be further developed if the bank is interested in my services. Result: model encompassing more data then Model 1 and utilizing at least one bonus challenge.
 
 # Data acquisition
 The dataset should be downloaded from Turing College relevant assignment webpage. Original data source appears to be based on Home Credit Default Risk Kaggle Competition.
