@@ -1,0 +1,81 @@
+NAME_CONTRACT_TYPE: 'Cash loans', 'Revolving loans'
+
+CODE_GENDER: 'M', 'F', 'Unknown/Non-binary'
+
+FLAG_OWN_CAR: 0, 1
+
+FLAG_OWN_REALTY: 0, 1
+
+CNT_CHILDREN: int
+
+AMT_INCOME_TOTAL: float
+
+AMT_CREDIT: float
+
+AMT_ANNUITY: float
+
+AMT_GOODS_PRICE: float
+
+NAME_TYPE_SUITE: 'Unaccompanied', 'Family', 'Spouse, partner', 'Children', 'Other_A', 'Unknown', 'Other_B', 'Group of people'
+
+NAME_INCOME_TYPE: 'Working', 'State servant', 'Commercial associate', 'Pensioner', 'Unemployed', 'Student', 'Businessman', 'Maternity leave'
+
+NAME_EDUCATION_TYPE: 'Secondary / secondary special', 'Higher education', 'Incomplete higher', 'Lower secondary', 'Academic degree'
+
+NAME_FAMILY_STATUS: 'Single / not married', 'Married', 'Civil marriage', 'Widow', 'Separated'
+
+NAME_HOUSING_TYPE: 'House / apartment', 'Rented apartment', 'With parents', 'Municipal apartment', 'Office apartment', 'Co-op apartment'
+
+REGION_POPULATION_RELATIVE: float
+
+DAYS_BIRTH (negative) int
+
+DAYS_EMPLOYED (negative) int
+
+DAYS_REGISTRATION (negative) float
+
+DAYS_ID_PUBLISH (negative) int
+
+OWN_CAR_AGE float
+
+FLAG_MOBIL 0, 1
+
+FLAG_EMP_PHONE 0, 1
+
+FLAG_WORK_PHONE 0, 1
+
+FLAG_CONT_MOBILE 0, 1
+
+FLAG_PHONE 0, 1
+
+FLAG_EMAIL 0, 1
+
+OCCUPATION_TYPE 'Laborers', 'Core staff', 'Accountants', 'Managers', 'Unknown', 'Drivers', 'Sales staff', 'Cleaning staff', 'Cooking staff', 'Private service staff', 'Medicine staff', 'Security staff','High skill tech staff', 'Waiters/barmen staff', 'Low-skill Laborers', 'Realty agents', 'Secretaries', 'IT staff','HR staff'
+
+CNT_FAM_MEMBERS	float
+
+REGION_RATING_CLIENT int
+
+REGION_RATING_CLIENT_W_CITY int
+
+WEEKDAY_APPR_PROCESS_START 'WEDNESDAY', 'MONDAY', 'THURSDAY', 'SUNDAY', 'SATURDAY', 'FRIDAY', 'TUESDAY'
+
+HOUR_APPR_PROCESS_START int
+
+REG_REGION_NOT_LIVE_REGION 0, 1
+
+REG_REGION_NOT_WORK_REGION 0, 1
+
+LIVE_REGION_NOT_WORK_REGION 0, 1
+
+REG_CITY_NOT_LIVE_CITY 0, 1
+
+REG_CITY_NOT_WORK_CITY 0, 1
+
+LIVE_CITY_NOT_WORK_CITY 0, 1
+
+ORGANIZATION_TYPE 'Business Entity Type 3', 'School', 'Government', 'Religion', 'Other', 'XNA', 'Electricity', 'Medicine', 'Business Entity Type 2', 'Self-employed', 'Transport: type 2', 'Construction', 'Housing', 'Kindergarten', 'Trade: type 7', 'Industry: type 11', 'Military', 'Services', 'Security Ministries', 'Transport: type 4', 'Industry: type 1', 'Emergency', 'Security', 'Trade: type 2', 'University', 'Transport: type 3', 'Police', 'Business Entity Type 1', 'Postal', 'Industry: type 4', 'Agriculture', 'Restaurant', 'Culture', 'Hotel', 'Industry: type 7', 'Trade: type 3', 'Industry: type 3', 'Bank', 'Industry: type 9', 'Insurance', 'Trade: type 6', 'Industry: type 2', 'Transport: type 1', 'Industry: type 12', 'Mobile', 'Trade: type 1', 'Industry: type 5', 'Industry: type 10', 'Legal Services', 'Advertising', 'Trade: type 5', 'Cleaning', 'Industry: type 13', 'Trade: type 4', 'Telecom', 'Industry: type 8', 'Realtor', 'Industry: type 6'
+
+Income_Class 'Upper middle income', 'Middle income', 'Lower middle income', 'High income', 'Very high income', 'Ultra high income'
+
+DTI_PROC float
